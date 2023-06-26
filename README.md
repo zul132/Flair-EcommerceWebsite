@@ -1,3 +1,5 @@
 # Flair-EcommerceWebsite
-This project is a website for an imaginary clothing brand Flair. The website is created using HTML,CSS, Javascript and Bootstrap.
-This was also my major project submission for my internship at yhills
+A beautiful responsive E-commerce website for a clothing brand. The website is created using HTML,CSS,Javascript,Bootstrap and is deployed on Netlify.
+This was also my major project submission for my web development internship at yhills
+
+Visit the live website: https://flair-home.netlify.app/
